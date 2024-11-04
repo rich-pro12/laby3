@@ -27,7 +27,7 @@ Mata kuliah : Bahasa pemrograman <p>
 ![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/ca81d242abf6d4904cc78ddad87af4087d0ba0a3/Screenshot%202024-11-05%20064636.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1]()
+![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/b11d101ae163c6d4ac98f246fe4eb5602e865489/Screenshot%202024-11-05%20064723.png)
 
 ## Latihan2: Laba
 ### Alur Algoritma Latihan2 :
