@@ -24,7 +24,7 @@ Mata kuliah : Bahasa pemrograman <p>
     - Program selesai setelah menampilkan n bilangan acak yang kurang dari 0.5.
       
 ### Program python
-![gambar1]()
+![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/ca81d242abf6d4904cc78ddad87af4087d0ba0a3/Screenshot%202024-11-05%20064636.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
 ![gambar1]()
