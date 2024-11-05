@@ -84,7 +84,7 @@ ini hasil eksekusi program python diatas
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python
-![gambar1]()
+![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/d56202e8126168beb9922c817cfcc2574de916cd/Screenshot%202024-11-05%20064957.png)
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
