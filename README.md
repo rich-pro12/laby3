@@ -54,13 +54,9 @@ ini hasil eksekusi program python diatas
 ![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/abc789708ffb2159ed8995c0045f9e8d8fb8ffd9/Screenshot%202024-11-05%20064831.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1]()
+![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/ea853976b5a146ea0a7d20bb2b33c3ced646aba4/Screenshot%202024-11-05%20064914.png)
 
 ## Latihan3: Mesin atm
-### Flowchart
-![gambar1](screenshot/ft1.png)
-![gambar1](screenshot/ft2.png)
-
 ### Alur Algoritma Latihan3 :
  1. Mulai Program:
     - Inisialisasi saldo awal sebesar Rp 1.000.000.000.
@@ -88,8 +84,8 @@ ini hasil eksekusi program python diatas
 
 ### Program python
 seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadikan sebuah program python
-![gambar1](screenshot/ft3.png)
+![gambar1]()
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1](screenshot/ft4.png)# laby3
+![gambar1]()# laby3
