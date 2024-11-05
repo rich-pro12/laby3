@@ -51,7 +51,7 @@ ini hasil eksekusi program python diatas
     - Program selesai.
       
 ### Program python
-![gambar1]()
+![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/abc789708ffb2159ed8995c0045f9e8d8fb8ffd9/Screenshot%202024-11-05%20064831.png)
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
 ![gambar1]()
