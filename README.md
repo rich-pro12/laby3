@@ -88,4 +88,4 @@ seperti ini jika algoritma yang dibuat dalam bentuk flowchart di atas, di jadika
 
 ### Hasil eksekusi program 
 ini hasil eksekusi program python diatas
-![gambar1]()# laby3
+![gambar1](https://raw.githubusercontent.com/rich-pro12/foto1/84e7271236c5435a7e4f7ca519c7f0a8c8532b78/Screenshot%202024-11-05%20065100.png)
